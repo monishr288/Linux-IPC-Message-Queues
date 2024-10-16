@@ -1,3 +1,5 @@
+## NAME : R.MONISH
+## REG NO : 212223220061
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
@@ -19,9 +21,7 @@ Write the C Program using Linux message queues API
 Execute the C Program for the desired output. 
 
 # PROGRAM:
-Developed By: Dharshini k
 
-reg no:23010696
 ## C program that receives a message from message queue and display them
 writer.c
 ```
